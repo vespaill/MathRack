@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/RackMath/static/css/main.81b54138.chunk.css",
+    "main.js": "/RackMath/static/js/main.408bfb0c.chunk.js",
+    "main.js.map": "/RackMath/static/js/main.408bfb0c.chunk.js.map",
+    "runtime-main.js": "/RackMath/static/js/runtime-main.f31abe47.js",
+    "runtime-main.js.map": "/RackMath/static/js/runtime-main.f31abe47.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/RackMath/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.a00e06f0.chunk.js": "/RackMath/static/js/2.a00e06f0.chunk.js",
+    "static/js/2.a00e06f0.chunk.js.map": "/RackMath/static/js/2.a00e06f0.chunk.js.map",
+    "index.html": "/RackMath/index.html",
+    "precache-manifest.ade1ac0446b58b95bfc36b30491d93f9.js": "/RackMath/precache-manifest.ade1ac0446b58b95bfc36b30491d93f9.js",
+    "service-worker.js": "/RackMath/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/RackMath/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.81b54138.chunk.css.map": "/RackMath/static/css/main.81b54138.chunk.css.map",
+    "static/js/2.a00e06f0.chunk.js.LICENSE.txt": "/RackMath/static/js/2.a00e06f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f31abe47.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.a00e06f0.chunk.js",
+    "static/css/main.81b54138.chunk.css",
+    "static/js/main.408bfb0c.chunk.js"
+  ]
+}

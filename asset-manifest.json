@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/RackMath/static/css/main.9ad83a45.chunk.css",
-    "main.js": "/RackMath/static/js/main.44c8841c.chunk.js",
-    "main.js.map": "/RackMath/static/js/main.44c8841c.chunk.js.map",
-    "runtime-main.js": "/RackMath/static/js/runtime-main.f31abe47.js",
-    "runtime-main.js.map": "/RackMath/static/js/runtime-main.f31abe47.js.map",
-    "static/css/2.37865b2a.chunk.css": "/RackMath/static/css/2.37865b2a.chunk.css",
-    "static/js/2.030645d2.chunk.js": "/RackMath/static/js/2.030645d2.chunk.js",
-    "static/js/2.030645d2.chunk.js.map": "/RackMath/static/js/2.030645d2.chunk.js.map",
-    "index.html": "/RackMath/index.html",
-    "precache-manifest.0a28e431f1514b73c21d428c4f759ccd.js": "/RackMath/precache-manifest.0a28e431f1514b73c21d428c4f759ccd.js",
-    "service-worker.js": "/RackMath/service-worker.js",
-    "static/css/2.37865b2a.chunk.css.map": "/RackMath/static/css/2.37865b2a.chunk.css.map",
-    "static/css/main.9ad83a45.chunk.css.map": "/RackMath/static/css/main.9ad83a45.chunk.css.map",
-    "static/js/2.030645d2.chunk.js.LICENSE.txt": "/RackMath/static/js/2.030645d2.chunk.js.LICENSE.txt"
+    "main.css": "/rackmath/static/css/main.9ad83a45.chunk.css",
+    "main.js": "/rackmath/static/js/main.f8ac640d.chunk.js",
+    "main.js.map": "/rackmath/static/js/main.f8ac640d.chunk.js.map",
+    "runtime-main.js": "/rackmath/static/js/runtime-main.8cda221e.js",
+    "runtime-main.js.map": "/rackmath/static/js/runtime-main.8cda221e.js.map",
+    "static/css/2.37865b2a.chunk.css": "/rackmath/static/css/2.37865b2a.chunk.css",
+    "static/js/2.872fc809.chunk.js": "/rackmath/static/js/2.872fc809.chunk.js",
+    "static/js/2.872fc809.chunk.js.map": "/rackmath/static/js/2.872fc809.chunk.js.map",
+    "index.html": "/rackmath/index.html",
+    "precache-manifest.ea4a94751e6440e96d07aac8eb02803c.js": "/rackmath/precache-manifest.ea4a94751e6440e96d07aac8eb02803c.js",
+    "service-worker.js": "/rackmath/service-worker.js",
+    "static/css/2.37865b2a.chunk.css.map": "/rackmath/static/css/2.37865b2a.chunk.css.map",
+    "static/css/main.9ad83a45.chunk.css.map": "/rackmath/static/css/main.9ad83a45.chunk.css.map",
+    "static/js/2.872fc809.chunk.js.LICENSE.txt": "/rackmath/static/js/2.872fc809.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f31abe47.js",
+    "static/js/runtime-main.8cda221e.js",
     "static/css/2.37865b2a.chunk.css",
-    "static/js/2.030645d2.chunk.js",
+    "static/js/2.872fc809.chunk.js",
     "static/css/main.9ad83a45.chunk.css",
-    "static/js/main.44c8841c.chunk.js"
+    "static/js/main.f8ac640d.chunk.js"
   ]
 }

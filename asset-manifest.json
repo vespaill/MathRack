@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/barbell-loader/static/css/main.1e52c50c.chunk.css",
-    "main.js": "/barbell-loader/static/js/main.b0273c5b.chunk.js",
-    "main.js.map": "/barbell-loader/static/js/main.b0273c5b.chunk.js.map",
+    "main.css": "/barbell-loader/static/css/main.9c508672.chunk.css",
+    "main.js": "/barbell-loader/static/js/main.4af0a542.chunk.js",
+    "main.js.map": "/barbell-loader/static/js/main.4af0a542.chunk.js.map",
     "runtime-main.js": "/barbell-loader/static/js/runtime-main.49d30f7d.js",
     "runtime-main.js.map": "/barbell-loader/static/js/runtime-main.49d30f7d.js.map",
     "static/css/2.37865b2a.chunk.css": "/barbell-loader/static/css/2.37865b2a.chunk.css",
-    "static/js/2.84406f11.chunk.js": "/barbell-loader/static/js/2.84406f11.chunk.js",
-    "static/js/2.84406f11.chunk.js.map": "/barbell-loader/static/js/2.84406f11.chunk.js.map",
+    "static/js/2.fe9bd9fd.chunk.js": "/barbell-loader/static/js/2.fe9bd9fd.chunk.js",
+    "static/js/2.fe9bd9fd.chunk.js.map": "/barbell-loader/static/js/2.fe9bd9fd.chunk.js.map",
     "index.html": "/barbell-loader/index.html",
-    "precache-manifest.1b16b7e9acb5e756179ac94ea57b765f.js": "/barbell-loader/precache-manifest.1b16b7e9acb5e756179ac94ea57b765f.js",
+    "precache-manifest.b52f9dac278ba65090d1e39b3e48dfe1.js": "/barbell-loader/precache-manifest.b52f9dac278ba65090d1e39b3e48dfe1.js",
     "service-worker.js": "/barbell-loader/service-worker.js",
     "static/css/2.37865b2a.chunk.css.map": "/barbell-loader/static/css/2.37865b2a.chunk.css.map",
-    "static/css/main.1e52c50c.chunk.css.map": "/barbell-loader/static/css/main.1e52c50c.chunk.css.map",
-    "static/js/2.84406f11.chunk.js.LICENSE.txt": "/barbell-loader/static/js/2.84406f11.chunk.js.LICENSE.txt",
+    "static/css/main.9c508672.chunk.css.map": "/barbell-loader/static/css/main.9c508672.chunk.css.map",
+    "static/js/2.fe9bd9fd.chunk.js.LICENSE.txt": "/barbell-loader/static/js/2.fe9bd9fd.chunk.js.LICENSE.txt",
     "static/media/info.css": "/barbell-loader/static/media/CMUTypewriter-Regular.e9f93c27.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.49d30f7d.js",
     "static/css/2.37865b2a.chunk.css",
-    "static/js/2.84406f11.chunk.js",
-    "static/css/main.1e52c50c.chunk.css",
-    "static/js/main.b0273c5b.chunk.js"
+    "static/js/2.fe9bd9fd.chunk.js",
+    "static/css/main.9c508672.chunk.css",
+    "static/js/main.4af0a542.chunk.js"
   ]
 }

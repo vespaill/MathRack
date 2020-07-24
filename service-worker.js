@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/barbell-loader/precache-manifest.5d0cdfd5573da99bbf0a457e83f47087.js"
+  "/barbell-loader/precache-manifest.43ca476e5c253ab2bd44c39e2aabd122.js"
 );
 
 self.addEventListener('message', (event) => {

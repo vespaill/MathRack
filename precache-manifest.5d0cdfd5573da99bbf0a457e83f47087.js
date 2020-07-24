@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "95e5db3a250e76d448422b85ccb5e490",
+    "revision": "43dbe9b37198f9a7fc2b1f5176f6f5aa",
     "url": "/barbell-loader/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/barbell-loader/static/css/2.37865b2a.chunk.css"
   },
   {
-    "revision": "f1a866fb74e15fdd3235",
-    "url": "/barbell-loader/static/css/main.2f304c06.chunk.css"
+    "revision": "586d2de8d6923241fa11",
+    "url": "/barbell-loader/static/css/main.94e35628.chunk.css"
   },
   {
     "revision": "1bb77833db6e73b58f7c",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/barbell-loader/static/js/2.0fbbf6a9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f1a866fb74e15fdd3235",
-    "url": "/barbell-loader/static/js/main.6cc716ce.chunk.js"
+    "revision": "586d2de8d6923241fa11",
+    "url": "/barbell-loader/static/js/main.04fdb008.chunk.js"
   },
   {
     "revision": "f0065b52e75475c75ab9",

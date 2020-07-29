@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a9b3a13fbff70ff8c1ca27878ca73de1",
+    "revision": "c755f039916769279f670b3a5711acca",
     "url": "/barbell-loader/index.html"
   },
   {

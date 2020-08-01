@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/barbell-loader/static/css/main.7adde639.chunk.css",
-    "main.js": "/barbell-loader/static/js/main.2940c9fe.chunk.js",
-    "main.js.map": "/barbell-loader/static/js/main.2940c9fe.chunk.js.map",
+    "main.js": "/barbell-loader/static/js/main.9e65f8cd.chunk.js",
+    "main.js.map": "/barbell-loader/static/js/main.9e65f8cd.chunk.js.map",
     "runtime-main.js": "/barbell-loader/static/js/runtime-main.49d30f7d.js",
     "runtime-main.js.map": "/barbell-loader/static/js/runtime-main.49d30f7d.js.map",
     "static/css/2.37865b2a.chunk.css": "/barbell-loader/static/css/2.37865b2a.chunk.css",
-    "static/js/2.e3c55abe.chunk.js": "/barbell-loader/static/js/2.e3c55abe.chunk.js",
-    "static/js/2.e3c55abe.chunk.js.map": "/barbell-loader/static/js/2.e3c55abe.chunk.js.map",
+    "static/js/2.7fc7be35.chunk.js": "/barbell-loader/static/js/2.7fc7be35.chunk.js",
+    "static/js/2.7fc7be35.chunk.js.map": "/barbell-loader/static/js/2.7fc7be35.chunk.js.map",
     "index.html": "/barbell-loader/index.html",
-    "precache-manifest.f9bd1bf452d702ac7bd113f45dc52c41.js": "/barbell-loader/precache-manifest.f9bd1bf452d702ac7bd113f45dc52c41.js",
+    "precache-manifest.fd0906e0e9bfbf3a0a6fdbe57eae76cf.js": "/barbell-loader/precache-manifest.fd0906e0e9bfbf3a0a6fdbe57eae76cf.js",
     "service-worker.js": "/barbell-loader/service-worker.js",
     "static/css/2.37865b2a.chunk.css.map": "/barbell-loader/static/css/2.37865b2a.chunk.css.map",
     "static/css/main.7adde639.chunk.css.map": "/barbell-loader/static/css/main.7adde639.chunk.css.map",
-    "static/js/2.e3c55abe.chunk.js.LICENSE.txt": "/barbell-loader/static/js/2.e3c55abe.chunk.js.LICENSE.txt",
+    "static/js/2.7fc7be35.chunk.js.LICENSE.txt": "/barbell-loader/static/js/2.7fc7be35.chunk.js.LICENSE.txt",
     "static/media/info.css": "/barbell-loader/static/media/CMUTypewriter-Regular.e9f93c27.svg",
     "static/media/cog.png": "/barbell-loader/static/media/cog.f959e642.png",
     "static/media/fire.png": "/barbell-loader/static/media/fire.fe489d1d.png"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.49d30f7d.js",
     "static/css/2.37865b2a.chunk.css",
-    "static/js/2.e3c55abe.chunk.js",
+    "static/js/2.7fc7be35.chunk.js",
     "static/css/main.7adde639.chunk.css",
-    "static/js/main.2940c9fe.chunk.js"
+    "static/js/main.9e65f8cd.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/barbell-loader/static/css/main.52fd9d82.chunk.css",
+    "main.css": "/barbell-loader/static/css/main.40c3bd30.chunk.css",
     "main.js": "/barbell-loader/static/js/main.81ad5cde.chunk.js",
     "main.js.map": "/barbell-loader/static/js/main.81ad5cde.chunk.js.map",
     "runtime-main.js": "/barbell-loader/static/js/runtime-main.49d30f7d.js",
@@ -9,10 +9,10 @@
     "static/js/2.784900a9.chunk.js": "/barbell-loader/static/js/2.784900a9.chunk.js",
     "static/js/2.784900a9.chunk.js.map": "/barbell-loader/static/js/2.784900a9.chunk.js.map",
     "index.html": "/barbell-loader/index.html",
-    "precache-manifest.c33a06f03014d48485f3b790a873525b.js": "/barbell-loader/precache-manifest.c33a06f03014d48485f3b790a873525b.js",
+    "precache-manifest.d65ba150dc82054adb2fa062030628fa.js": "/barbell-loader/precache-manifest.d65ba150dc82054adb2fa062030628fa.js",
     "service-worker.js": "/barbell-loader/service-worker.js",
     "static/css/2.37865b2a.chunk.css.map": "/barbell-loader/static/css/2.37865b2a.chunk.css.map",
-    "static/css/main.52fd9d82.chunk.css.map": "/barbell-loader/static/css/main.52fd9d82.chunk.css.map",
+    "static/css/main.40c3bd30.chunk.css.map": "/barbell-loader/static/css/main.40c3bd30.chunk.css.map",
     "static/js/2.784900a9.chunk.js.LICENSE.txt": "/barbell-loader/static/js/2.784900a9.chunk.js.LICENSE.txt",
     "static/media/info.css": "/barbell-loader/static/media/CMUTypewriter-Regular.e9f93c27.svg",
     "static/media/cog.png": "/barbell-loader/static/media/cog.f959e642.png",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.49d30f7d.js",
     "static/css/2.37865b2a.chunk.css",
     "static/js/2.784900a9.chunk.js",
-    "static/css/main.52fd9d82.chunk.css",
+    "static/css/main.40c3bd30.chunk.css",
     "static/js/main.81ad5cde.chunk.js"
   ]
 }

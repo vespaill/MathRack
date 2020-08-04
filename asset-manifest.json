@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/barbell-loader/static/css/main.7c10302b.chunk.css",
-    "main.js": "/barbell-loader/static/js/main.1e39fd20.chunk.js",
-    "main.js.map": "/barbell-loader/static/js/main.1e39fd20.chunk.js.map",
+    "main.css": "/barbell-loader/static/css/main.1de468ba.chunk.css",
+    "main.js": "/barbell-loader/static/js/main.af1330fe.chunk.js",
+    "main.js.map": "/barbell-loader/static/js/main.af1330fe.chunk.js.map",
     "runtime-main.js": "/barbell-loader/static/js/runtime-main.49d30f7d.js",
     "runtime-main.js.map": "/barbell-loader/static/js/runtime-main.49d30f7d.js.map",
     "static/css/2.37865b2a.chunk.css": "/barbell-loader/static/css/2.37865b2a.chunk.css",
-    "static/js/2.f810be9b.chunk.js": "/barbell-loader/static/js/2.f810be9b.chunk.js",
-    "static/js/2.f810be9b.chunk.js.map": "/barbell-loader/static/js/2.f810be9b.chunk.js.map",
+    "static/js/2.73f67110.chunk.js": "/barbell-loader/static/js/2.73f67110.chunk.js",
+    "static/js/2.73f67110.chunk.js.map": "/barbell-loader/static/js/2.73f67110.chunk.js.map",
     "index.html": "/barbell-loader/index.html",
-    "precache-manifest.261b8e8965adb11e88c50fb5544315c5.js": "/barbell-loader/precache-manifest.261b8e8965adb11e88c50fb5544315c5.js",
+    "precache-manifest.ef1623039c13837a1b2b1ebadefddfbe.js": "/barbell-loader/precache-manifest.ef1623039c13837a1b2b1ebadefddfbe.js",
     "service-worker.js": "/barbell-loader/service-worker.js",
     "static/css/2.37865b2a.chunk.css.map": "/barbell-loader/static/css/2.37865b2a.chunk.css.map",
-    "static/css/main.7c10302b.chunk.css.map": "/barbell-loader/static/css/main.7c10302b.chunk.css.map",
-    "static/js/2.f810be9b.chunk.js.LICENSE.txt": "/barbell-loader/static/js/2.f810be9b.chunk.js.LICENSE.txt",
+    "static/css/main.1de468ba.chunk.css.map": "/barbell-loader/static/css/main.1de468ba.chunk.css.map",
+    "static/js/2.73f67110.chunk.js.LICENSE.txt": "/barbell-loader/static/js/2.73f67110.chunk.js.LICENSE.txt",
     "static/media/info.css": "/barbell-loader/static/media/CMUTypewriter-Regular.e9f93c27.svg",
     "static/media/fire.png": "/barbell-loader/static/media/fire.fe489d1d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.49d30f7d.js",
     "static/css/2.37865b2a.chunk.css",
-    "static/js/2.f810be9b.chunk.js",
-    "static/css/main.7c10302b.chunk.css",
-    "static/js/main.1e39fd20.chunk.js"
+    "static/js/2.73f67110.chunk.js",
+    "static/css/main.1de468ba.chunk.css",
+    "static/js/main.af1330fe.chunk.js"
   ]
 }
